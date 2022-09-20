@@ -16,5 +16,6 @@ public class MavenpracticeTest {
 		     
 		     WebDriverUtility web=new WebDriverUtility();
 		     web.openBrowserwithApplication(browser, 10, url);
+		     System.out.println("method passed");
 	}
 }
